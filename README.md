@@ -24,4 +24,4 @@ Comments were add to each HTML and CSS files to ease navigation of each section
 
 # Link for Github challenge:
 * https://rbsantos-code.github.io/horiseon-marketing/
-* git@github.com:rbsantos-code/horiseon-marketing.git
+* https://github.com/rbsantos-code/horiseon-marketing.git
