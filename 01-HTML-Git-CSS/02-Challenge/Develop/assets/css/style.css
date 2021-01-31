@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header styling start */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/* navigation styling */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,6 +42,8 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* header styling end */
 
 a {
     color: #ffffff;
@@ -75,13 +79,14 @@ p {
     margin-left: 20px;
 }
 
+/* Side content styling start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 185%; /* adjusted height from 100 to 185 because background portion stopped half way of the section */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -101,6 +106,7 @@ p {
     color: #ffffff;
 }
 
+/*
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,7 +121,16 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+*/
 
+/* refactor h3 tag to have code target all three sections instead of having coding for each section */
+
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/*
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,6 +148,17 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+*/
+/* Refactor img tag for each section to one code with the same outcome */
+
+.benefits img {
+    display: block;
+    margin: 10px auto; 
+    max-width: 150px;
+}
+
+
+/* Main content styling start */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -161,6 +187,7 @@ p {
     color: #ffffff;
 }
 
+/*
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +199,14 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+*/
+/* refactor img tags for this section */
 
+.content img {
+    max-height: 200px;
+}
+
+/*
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,6 +221,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/
+/* refactor h2 tag for each section */
+
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Main content end */
 
 .footer {
     padding: 30px;
