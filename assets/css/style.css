@@ -91,6 +91,7 @@ p {
     background-color: #2589bd;
 }
 
+/*
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +103,12 @@ p {
 }
 
 .benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+*/
+
+.benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -160,6 +167,7 @@ p {
 
 /* Main content styling start */
 
+/*
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -186,6 +194,17 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+*/
+.content div {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
 
 /*
 .search-engine-optimization img {
