@@ -1,14 +1,24 @@
-# horiseon-marketing
+HTML CSS Git Challenge: Code Refactor
 
-## Purpose 
-Marketing agency offering services to clients through management and social media marketing 
+Horiseon Marketing Team
 
-## Built With
-* HTML 
-* CSS
+For this weeks challenge, this marketing team has hired us to optimize their site. Their main goal for the website is to be more accessible and which in turn, will benefit their business. Making the site more accessible to all customers and especially for customers with disabilities. 
 
-## Website
-https://github.com/rbsantos-code/horiseon-marketing.git
+In addition to optimizing the site, we will be looking at the coding structure of the site. We will look at the HTML and CSS how each are structured. With in these files, we will look at organization of the code and will make updates coding structure to make them more stream lined and easier to read and update.
 
-## Contribution 
-Made by Richard Brian Santos
+
+Conclusion:
+
+Application links are working and corrected missing code link for "search engine optimization" section.
+
+Added descriptions for images in the site with the use of alt tag.
+
+Refactor coding sequence in CSS file for sections that had multiple codes for the same section. Code for specific sections are consensed and have the same effect as before. 
+
+Comments were add to each HTML and CSS files to ease navigation of each section 
+
+
+
+Link for Github challenge:
+
+git@github.com:rbsantos-code/horiseon-marketing.git
