@@ -15,8 +15,14 @@ In addition to optimizing the site, we will be looking at the coding structure o
 * Added descriptions for images in the site with the use of alt tag.
 
 * Refactor coding sequence in CSS file for sections that had multiple codes for the same section. Code for specific sections are consensed and have the same effect as before. 
+<<<<<<< HEAD
 
 * Comments were add to each HTML and CSS files to ease navigation of each section 
+=======
+
+* Comments were add to each HTML and CSS files to ease navigation of each section 
+
+>>>>>>> c80fd3e8e9a886104ed9dda1156e6e2f4c85a910
 
 ## Built with
 * HTML
