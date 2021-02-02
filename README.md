@@ -8,15 +8,16 @@ For this weeks challenge, this marketing team has hired us to optimize their sit
 In addition to optimizing the site, we will be looking at the coding structure of the site. We will look at the HTML and CSS how each are structured. With in these files, we will look at organization of the code and will make updates coding structure to make them more stream lined and easier to read and update.
 
 
-Conclusion:
+##Conclusion:
 
-Application links are working and corrected missing code link for "search engine optimization" section.
+* Application links are working and corrected missing code link for "search engine optimization" section.
 
-Added descriptions for images in the site with the use of alt tag.
+* Added descriptions for images in the site with the use of alt tag.
 
-Refactor coding sequence in CSS file for sections that had multiple codes for the same section. Code for specific sections are consensed and have the same effect as before. 
+* Refactor coding sequence in CSS file for sections that had multiple codes for the same section. Code for specific sections are consensed and have the same effect as before. 
 
-Comments were add to each HTML and CSS files to ease navigation of each section 
+* Comments were add to each HTML and CSS files to ease navigation of each section 
+
 
 ## Built with
 * HTML
