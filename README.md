@@ -8,7 +8,7 @@ For this weeks challenge, this marketing team has hired us to optimize their sit
 In addition to optimizing the site, we will be looking at the coding structure of the site. We will look at the HTML and CSS how each are structured. With in these files, we will look at organization of the code and will make updates coding structure to make them more stream lined and easier to read and update.
 
 
-##Conclusion:
+## Conclusion:
 
 * Application links are working and corrected missing code link for "search engine optimization" section.
 
