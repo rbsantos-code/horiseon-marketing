@@ -12,9 +12,16 @@ In addition to optimizing the site, we will be looking at the coding structure o
 
 * Application links are working and corrected missing code link for "search engine optimization" section.
 
+<img width="582" alt="broken-link" src="https://user-images.githubusercontent.com/77135925/106547488-25783500-64c2-11eb-98bc-c029c78e7bc1.png">
+
 * Added descriptions for images in the site with the use of alt tag.
 
+<img width="490" alt="altAttribute" src="https://user-images.githubusercontent.com/77135925/106547554-46d92100-64c2-11eb-83ee-c8e678a270ba.png">
+
 * Refactor coding sequence in CSS file for sections that had multiple codes for the same section. Code for specific sections are consensed and have the same effect as before. 
+
+<img width="490" alt="refactorCode" src="https://user-images.githubusercontent.com/77135925/106547605-6112ff00-64c2-11eb-8693-da2d325910cc.png">
+
 
 ## Built with
 * HTML
