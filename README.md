@@ -22,6 +22,15 @@ In addition to optimizing the site, we will be looking at the coding structure o
 
 <img width="490" alt="refactorCode" src="https://user-images.githubusercontent.com/77135925/106547605-6112ff00-64c2-11eb-8693-da2d325910cc.png">
 
+* This is the HTML screenshot
+
+<img width="1282" alt="Screen Shot 2021-02-02 at 3 44 33 PM" src="https://user-images.githubusercontent.com/77135925/106677572-ce2f9e80-656d-11eb-87ad-c8f49348e032.png">
+
+<img width="1279" alt="Screen Shot 2021-02-02 at 3 44 45 PM" src="https://user-images.githubusercontent.com/77135925/106677598-dd165100-656d-11eb-8174-e9d2b13026c7.png">
+
+<img width="1239" alt="Screen Shot 2021-02-02 at 3 44 55 PM" src="https://user-images.githubusercontent.com/77135925/106677618-e9021300-656d-11eb-92a2-01ab1c8ae52e.png">
+
+
 
 ## Built with
 * HTML
